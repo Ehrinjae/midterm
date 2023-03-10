@@ -1,38 +1,36 @@
-<<<<<<< HEAD
-
 body{
-    margin: 20;
-    padding: 30;
-    background: #ccc;
-    font-family: arial;
-    background-color: lightblue;
+  margin: 20;
+  padding: 30;
+  background: #ccc;
+  font-family: arial;
+  background-color: lightblue;
 }
 /*it changes backgorund color and font*/
 
 .navbar ul{
-    list-style: none;
-    background: lightblue;
-    padding: 0;
-    margin: 0;
-    text-align: center;
+  list-style: none;
+  background: lightblue;
+  padding: 0;
+  margin: 0;
+  text-align: center;
 }
 /* it colors the background of the 3 navigation*/
 
 .navbar li{
-    display: inline-block;
+  display: inline-block;
 }
 /* this code make nav to horizontal*/
 
 .navbar a{
-    text-decoration: none;
-    color: black;
-    width: 400px;
-    display: block;
-    padding: 25px 20px;
-    font-size:30px;
-    text-transform: uppercase;
-    font-weight: bold;
-    text-align: center;
+  text-decoration: none;
+  color: black;
+  width: 400px;
+  display: block;
+  padding: 25px 20px;
+  font-size:30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
 }
 /*this three make allign the three nav,it colors,resize,make it center*/
 
@@ -45,25 +43,25 @@ body{ font-size: 40px;}
 
 .container
 {
-    margin: 50spx auto;
-    width: 90%;
-    padding: left;
+  margin: 50spx auto;
+  width: 90%;
+  padding: left;
 }
 /*it resize the paragraph and image*/
 
 img
 {
-    float: left;
-    width: 500px;
-    height: 500px;
-    padding: 0 10px 10 10;
+  float: left;
+  width: 500px;
+  height: 500px;
+  padding: 0 10px 10 10;
 }
 /* this code resize your image height,width and where to put the image*/
 
 .text
 {
-    text-align: center;
-    font-family: verdana;
+  text-align: center;
+  font-family: verdana;
 }
 /* this code just change font-family */
 
@@ -72,73 +70,71 @@ body {font-family: Arial, Helvetica, sans-serif;}
 /* it change font size in contact form*/
 
 input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid black;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+width: 100%;
+padding: 12px;
+border: 1px solid black;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
 }
 /* it change text color,height,width and resize*/
 
 input[type=submit] {
-  background-color: black;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+background-color: black;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
 }
 /*it change color of the submit button*/
 
 input[type=submit]:hover {
-  background-color: black;
+background-color: black;
 }
 /*it change the lines in form*/
 
 .container {
-  border-radius: 5px;
-  background-color: lightblue;
-  padding: 20px;
+border-radius: 5px;
+background-color: lightblue;
+padding: 20px;
 }
 /* it change the color background form*/
-=======
-
 body{
-    margin: 20;
-    padding: 30;
-    background: #ccc;
-    font-family: arial;
-    background-color: lightblue;
+  margin: 20;
+  padding: 30;
+  background: #ccc;
+  font-family: arial;
+  background-color: lightblue;
 }
 /*it changes backgorund color and font*/
 
 .navbar ul{
-    list-style: none;
-    background: lightblue;
-    padding: 0;
-    margin: 0;
-    text-align: center;
+  list-style: none;
+  background: lightblue;
+  padding: 0;
+  margin: 0;
+  text-align: center;
 }
 /* it colors the background of the 3 navigation*/
 
 .navbar li{
-    display: inline-block;
+  display: inline-block;
 }
 /* this code make nav to horizontal*/
 
 .navbar a{
-    text-decoration: none;
-    color: black;
-    width: 400px;
-    display: block;
-    padding: 25px 20px;
-    font-size:30px;
-    text-transform: uppercase;
-    font-weight: bold;
-    text-align: center;
+  text-decoration: none;
+  color: black;
+  width: 400px;
+  display: block;
+  padding: 25px 20px;
+  font-size:30px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
 }
 /*this three make allign the three nav,it colors,resize,make it center*/
 
@@ -151,25 +147,25 @@ body{ font-size: 40px;}
 
 .container
 {
-    margin: 50spx auto;
-    width: 90%;
-    padding: left;
+  margin: 50spx auto;
+  width: 90%;
+  padding: left;
 }
 /*it resize the paragraph and image*/
 
 img
 {
-    float: left;
-    width: 500px;
-    height: 500px;
-    padding: 0 10px 10 10;
+  float: left;
+  width: 500px;
+  height: 500px;
+  padding: 0 10px 10 10;
 }
 /* this code resize your image height,width and where to put the image*/
 
 .text
 {
-    text-align: center;
-    font-family: verdana;
+  text-align: center;
+  font-family: verdana;
 }
 /* this code just change font-family */
 
@@ -178,36 +174,36 @@ body {font-family: Arial, Helvetica, sans-serif;}
 /* it change font size in contact form*/
 
 input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid black;
-  border-radius: 4px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+width: 100%;
+padding: 12px;
+border: 1px solid black;
+border-radius: 4px;
+box-sizing: border-box;
+margin-top: 6px;
+margin-bottom: 16px;
+resize: vertical;
 }
 /* it change text color,height,width and resize*/
 
 input[type=submit] {
-  background-color: black;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
+background-color: black;
+color: white;
+padding: 12px 20px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
 }
 /*it change color of the submit button*/
 
 input[type=submit]:hover {
-  background-color: black;
+background-color: black;
 }
 /*it change the lines in form*/
 
 .container {
-  border-radius: 5px;
-  background-color: lightblue;
-  padding: 20px;
+border-radius: 5px;
+background-color: lightblue;
+padding: 20px;
 }
 /* it change the color background form*/
->>>>>>> 189f66725f09bb671e5441a2532281a7de25aa51
+
