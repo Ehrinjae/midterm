@@ -1,0 +1,106 @@
+body{
+    background-color: lightblue;
+box-sizing: border-box;
+}
+/* this code change background of the website*/
+
+*{margin: 0; padding: 100;}
+body{ font-size: 50px;}
+.banner{position: relative; width: 100%; margin: 0 auto;}
+.banner img{ width: 100%; position:center; }
+.heading{color: blanchedalmond; position:absolute; top: 15%; width: 100%; text-align: center; font: size 6rem;}
+/*this code made the title go to the middle and allign in the background image*/
+
+    .navbar ul{
+        list-style: none;
+        background: lightblue;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+/* this code help me to change color of the navbar color*/
+
+.navbar li{
+    display: inline-block;
+}
+/* this code help me to make navigation to be horizontal line*/
+
+.navbar a{
+    text-decoration: none;
+    color: blanchedalmond;
+    width: 500px;
+    display: block;
+    padding: 25px 20px;
+    font: size 100px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+/* this code color my navigation text or allign the text*/
+
+.navbar a:hover{
+    background: lightcoral;
+}
+/* this code change the nav color if you try to touch one of the 3 nav*/
+
+.wrapper
+{
+    margin: 90px auto;
+    width: 90%;
+    padding: 10px;
+    float: left;
+    color:blanchedalmond
+}
+/* it helps to reallign the text and image*/
+
+img
+{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;
+}
+/* it helps to resize the image and text */
+
+.text
+{
+    text-align: left;
+    font-family: Verdana
+}
+/* this code change color of the wrapping text*/
+
+ol.a {
+    list-style-type: circle;
+    text-align: left;
+  }
+
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid lightblue;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  /* it changes the color of the lines*/
+  input[type=submit] {
+    background-color: blanchedalmond;
+    color: lightskyblue;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  /* it changes the color,size and width of the submit buttom*/
+  input[type=submit]:hover {
+    background-color: black;
+  }
+  /* it change the color of the text inside of the tab*/
+  .contact {
+    border-radius: 5px;
+    background-color:black;
+    padding: 20px;
+  }
+  /* it changes the contact color
